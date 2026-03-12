@@ -98,6 +98,12 @@ Hi, I'm **Krushnakant Patil**, a Computer Science undergraduate passionate about
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  
 
 </div>
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Krushnakant-08&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krushnakant-08&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
