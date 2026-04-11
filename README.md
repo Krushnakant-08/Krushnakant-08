@@ -13,7 +13,7 @@
 Hi, I'm **Krushnakant Patil**, a Computer Science undergraduate passionate about building innovative solutions through code.  
 
 ✨ I specialize in **full-stack development**, creating modular and scalable tools, and contributing to open source projects.  
-⚡ **Fun Fact:** I speak fluent C++ and broken JavaScripts* 😎  
+⚡ **Fun Fact:** I speak fluent C++ and broken JavaScripts  
 
 ---
 
@@ -21,7 +21,7 @@ Hi, I'm **Krushnakant Patil**, a Computer Science undergraduate passionate about
 - Full-stack development with modern technologies  
 - Building modular and scalable tools  
 - Automation and clean code practices  
-- Open source contributions  
+- I joke about merge conflicts. I do not joke during merge conflicts.
 
 🎯 **Current Focus:** Building modular tools and contributing to open source
 
