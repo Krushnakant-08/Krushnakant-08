@@ -47,7 +47,7 @@
       src="assets/window-mid-left.png"
       width="23.49%"
       align="center"
-    /><a target="_blank" href="https://krushnakant-portfolio.vercel.app/"
+    /><a target="_blank" href="https://krushnakantpatil.me/"
       ><img src="assets/window-button-ok.png" width="11.01%" align="center" /></a
     ><img src="assets/window-button-gap.png" width="0.88%" align="center" /><a
       href="https://youtu.be/dQw4w9WgXcQ?si=2mhHnsGbcQLij6I0"
@@ -61,7 +61,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://krushnakant-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://krushnakantpatil.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krushnakantpatil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krushnakantpatil06@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/krushnakantpatil05)
